@@ -1,7 +1,7 @@
 <template>
     <header>
-        <h1><span class="icon" aria-hidden="true">To do</span></h1>
-        <p>Lista de tareas en Vue.js 3</p>
+        <h1><span class="icon" aria-hidden="true">Metas 2025</span></h1>
+        <p>Lista de tareas</p>
     </header>
 </template>
 
